@@ -2,9 +2,9 @@
 <br/>
 <br>
 
-<a href="mailto:taddhita_priya@yahoo.com?subject=Sanskrit%20Utilities">Suggestions and Comments</a>
+<a href="mailto:egangotritrust@gmail.com?subject=Sanskrit%20Utilities">Suggestions and Comments</a>
 <br/>
 <br/>
-© <bean:message arg0="2008" key="footer.copyright.message"/>
+ï¿½ <bean:message arg0="2008" key="footer.copyright.message"/>
 <br/>
 <br/>
